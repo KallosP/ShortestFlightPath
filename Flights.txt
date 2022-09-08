@@ -1,0 +1,38 @@
+
+
+Flights to/from Kansas City (Terminal H):
+LA $218
+Chicago $65
+Dallas $78
+
+Flights to/from Dallas (Terminal G):
+Miami $278
+LA $315
+Kansas City $78
+
+Flights to/from Chicago (Terminal D):
+Seattle $280
+New York City $250
+Kansas City $65
+
+Flights to/from New York City (Terminal C):
+Chicago $250
+Charlotte $168
+
+Flights to/from Miami (Terminal A):
+Dallas $278
+Kansas City $115
+Charlotte $155
+
+Flights to/from Charlotte (Terminal B):
+Miami $155
+New York City $168
+
+Flights to/from LA (Terminal F):
+Seattle $145
+Kansas City $218
+Dallas $315
+
+Flights to/from Seattle (Terminal E):
+Los Angeles $145
+Chicago $280
